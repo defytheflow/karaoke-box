@@ -1,0 +1,16 @@
+.header {
+  background-image: linear-gradient(red, yellow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Tahoma;
+  font-size: 1.3rem;
+  position: fixed;
+  width: 100%;
+  height: 75px;
+}
+
+.nav a {
+  margin-left: 25px;
+  cursor: pointer;
+}
